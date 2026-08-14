@@ -1,0 +1,62 @@
+{
+    "output": {
+        "autogain#0": {
+            "bypass": false,
+            "force-silence": false,
+            "input-gain": 8.0,
+            "maximum-history": 30,
+            "output-gain": 7.0,
+            "reference": "Geometric Mean (MSI)",
+            "silence-threshold": -50.0,
+            "target": -16.0
+        },
+        "blocklist": [],
+        "convolver#0": {
+            "autogain": true,
+            "bypass": false,
+            "dry": -100.0,
+            "input-gain": 2.0,
+            "ir-width": 100,
+            "kernel-name": "movie_impulse_response",
+            "output-gain": 2.0,
+            "sofa": {
+                "azimuth": 0.0,
+                "elevation": 0.0,
+                "radius": 1.0
+            },
+            "wet": 0.0
+        },
+        "limiter#0": {
+            "alr": false,
+            "alr-attack": 5.0,
+            "alr-knee": 0.0,
+            "alr-knee-smooth": -5.0,
+            "alr-release": 50.0,
+            "attack": 1.5,
+            "bypass": false,
+            "dithering": "None",
+            "gain-boost": true,
+            "input-gain": 0.0,
+            "input-to-link": -80.01,
+            "input-to-sidechain": -80.01,
+            "link-to-input": -80.01,
+            "link-to-sidechain": -80.01,
+            "lookahead": 5.0,
+            "mode": "Herm Thin",
+            "output-gain": 0.0,
+            "oversampling": "None",
+            "release": 20.0,
+            "sidechain-preamp": 0.0,
+            "sidechain-to-input": -80.01,
+            "sidechain-to-link": -80.01,
+            "sidechain-type": "Internal",
+            "stereo-link": 100.0,
+            "threshold": -1.0
+        },
+        "plugins_order": [
+            "autogain#0",
+            "convolver#0",
+            "limiter#0"
+        ]
+    }
+}
