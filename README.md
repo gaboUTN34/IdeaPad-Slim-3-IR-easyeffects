@@ -1,13 +1,16 @@
 # IdeaPad-Slim-3-IR-easyeffects
 
-Little repository with the impulse-response files of this laptop model for EasyEffects convolver and the presets I use for this laptop.
-Speakers sound so much better compared to defaults.
-Files are provided AS they were recorded by me for each one of the sound modes available in Windows.
-Personally, I like the movie mode sound the most but you can try to your taste and make your own modifications to the effects chain if needed.
-Also, you can tune the values of the effects in easyeffects to your liking.
+Here you'll find the impulse-response files for this laptop model so you can use them in EasyEffects convolver. I uploaded the presets I made for it too, which can be a good starting point to tune your audio.
+
+Personally, I like the movie mode sound the most but you can try to your liking.
 
 ## Sidenote
-For the microphone, turn down global input volume to around 30-40% in your system settings, because IDK why at higher volume it sounds too distorted. 
+
+For the microphone, turn down global input volume to around 30-40% in your system settings, because IDK why at higher volume it sounds too distorted.
+
+## Little disclaimer
+
+Files are provided AS they were recorded by me for each one of the sound modes available in Windows. Presets were made by me, they aren't perfect and might need further tuning.
 
 ## LICENSE
 GNU GPL v3
