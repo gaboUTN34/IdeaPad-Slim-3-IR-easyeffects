@@ -13,4 +13,4 @@ For the microphone, turn down global input volume to around 30-40% in your syste
 Files are provided AS they were recorded by me for each one of the sound modes available in Windows. Presets were made by me, they aren't perfect and might need further tuning.
 
 ## LICENSE
-GNU GPL v3
+MIT LICENSE
