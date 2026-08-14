@@ -6,11 +6,11 @@ Personally, I like the movie mode sound the most but you can try to your liking.
 
 ## Sidenote
 
-For the microphone, turn down global input volume to around 30-40% in your system settings, because IDK why at higher volume it sounds too distorted.
+For the microphone, turn down global input volume to around 30-40% in your system settings, because IDK why at higher volume it sounds too distorted. Don't worry, it won't affect volume output (you can check by yourself).
 
 ## Little disclaimer
 
-Files are provided AS they were recorded by me for each one of the sound modes available in Windows. Presets were made by me, they aren't perfect and might need further tuning.
+Files are provided AS they were recorded by me. Presets were made by me, they aren't perfect and might need further tuning.
 
 ## LICENSE
-MIT LICENSE
+MIT
