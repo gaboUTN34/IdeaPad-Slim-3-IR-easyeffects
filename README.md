@@ -23,7 +23,7 @@ For the microphone, turn down global input volume to around 30-40% in your syste
 
 ## Little disclaimer
 
-Files are provided AS they were recorded by me. Presets were made by me, they aren't perfect and might need further tuning.
+Files are provided AS they were recorded by me. Presets were made by me, they aren't perfect and might need further tuning. You could use them on other laptop models but I don't guarantee a good sound, each laptop has its speakers tuned  differently by software/hardware differences.
 
 ## LICENSE
 MIT
